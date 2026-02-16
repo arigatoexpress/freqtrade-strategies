@@ -1,5 +1,7 @@
 # Freqtrade strategies
 
+Status: ARCHIVED (superseded by `arigatoexpress/Sapphire`). Fork retained for reference only.
+
 This Git repo contains free buy/sell strategies for [Freqtrade](https://github.com/freqtrade/freqtrade).
 
 All strategies should work with a freqtrade version of 2022.4 or newer.

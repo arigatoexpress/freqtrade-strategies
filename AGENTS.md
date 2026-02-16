@@ -1,6 +1,6 @@
 # freqtrade-strategies — Agent Notes
 
-Status: FORK
+Status: ARCHIVED (fork, superseded by `arigatoexpress/Sapphire`)
 Remote: https://github.com/arigatoexpress/freqtrade-strategies.git
 Upstream: https://github.com/freqtrade/freqtrade-strategies.git
 
